@@ -1,0 +1,14 @@
+pytube
+pydub
+transliterate
+semver
+seaborn
+noisereduce
+scipy
+librosa
+websocket
+websockets
+websocket-client
+#PuzzleLib==1.0.3
+#pytorch_lightning==1.6
+#https://github.com/pyannote/pyannote-audio/archive/develop.zip
