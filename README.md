@@ -1,4 +1,4 @@
-# TextToSpeech Yury Dud
+# TextToSpeech Yury Dud' (demo version)
 
 ## Requirements
 create container with CUDA cards
